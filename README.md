@@ -16,15 +16,15 @@
 
 <br>
 
-翻譯前 | 翻譯後 | 執行時間
---- | --- | ---
-![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/9dc42f09-5650-4b91-81b1-175f6ea11ed5) | ![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/863528d8-65d9-464e-adab-4a7c7f96430f) | 0.6688 s
-![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/b5e0899a-b8c9-46c4-84e3-b6a07b768adb) | ![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/24ba2107-2ab5-4f94-ae21-47a907852470) | 16.325 s
+翻譯前 | 翻譯後 | 長度上限 | 執行時間
+--- | --- | --- | ---
+![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/9dc42f09-5650-4b91-81b1-175f6ea11ed5) | ![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/863528d8-65d9-464e-adab-4a7c7f96430f) | 20 | 0.668 s
+![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/b5e0899a-b8c9-46c4-84e3-b6a07b768adb) | ![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/24ba2107-2ab5-4f94-ae21-47a907852470) | 500 | 16.325 s
 
 英文提問 | 中文提問
 --- | ---
 ![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/56a064c3-ff6c-4d3c-8d8d-c323f8fb972e) | ![image](https://github.com/yesaouo/Gemma_FloatChat/assets/88719692/4909884d-61f7-4b8b-8c18-6914a2406508)
-執行時間: 30.319024085998535 s | 執行時間: 30.191612482070923 s
+長度上限: 1000 / 執行時間: 30.319 s | 長度上限: 1000 / 執行時間: 30.191 s
 
 ## 執行方法
 參考 [main.ipynb](https://github.com/yesaouo/Gemma_FloatChat/blob/main/main.ipynb) 內有教學
